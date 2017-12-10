@@ -15,3 +15,4 @@ stages {
                echo "Hello ${params.ENVIRONMENT}"
            }
        }
+}
